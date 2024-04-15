@@ -51,7 +51,7 @@
                         <div class = "info">
                             <p>Productors: 
                                 <?php foreach($card["productors"] as $productor): ?>
-                                    <span class="bold"><?= $productor; ?></span>
+                                    <span class="bold"><?= $productor ; ?></span>
                                 <?php endforeach; ?>
                             </p>
                             <p>Directors:

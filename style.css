@@ -82,7 +82,7 @@ header {
     font-weight: 700;
 }
 
-@media (max-width: 400px){
+@media (max-width: 450px){
     #filter_btn {
         padding: 0;
     }
